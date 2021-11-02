@@ -55,6 +55,9 @@ D) How does replacing the ninth-grade scores affect the following:
 3. Summary:
 
 District Analysis - changes to all scores by less than 0.5% - no effect on school or student count.
+
 Top School Ranking - no change to ranking, however Thomas High School scores did change, but by less than 1 percentage for each metric.
+
 Scores by School Size - changes to Medium (1000-2000) grouping for all scores by less than 0.1 percentage.
+
 Scores by School Type - chages to Charter type grouping for all scores by less than 0.1 percentage.
