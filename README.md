@@ -39,14 +39,14 @@ D) How does replacing the ninth-grade scores affect the following:
         * BEFORE REPLACING DATA: 73, 84, 63
         * AFTER REPLACING DATA: 67, 77, 56
         
-    > Scores by school size :
+    Scores by school size :
         * Thomas HS is in the "Medium (1000-2000)" size bucket
         * Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for size
           bin  "Medium (1000-2000)" as follows:
           * BEFORE REPLACING DATA:94, 97, 91
           * AFTER REPLACING DATA: 88, 91, 85
           
-    > Scores by school type :
+    Scores by school type :
         * Thomas High School is in the "CHARTER" type 
         * Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for type                 "CHARTER" as follows:
           * BEFORE:94, 97, 90
