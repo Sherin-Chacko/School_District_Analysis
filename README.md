@@ -20,35 +20,40 @@ B) How is the school summary affected?
 
     > BEFORE REPLACING DATA:  Thomas High School's % Overall Passing = 91, ranking second
     > AFTER REPLACING DATA:   % Overall Passing = 65, placing eighth
-    > OBSERVATION:            Overall ranking order of Thomas High School slipped from 2ND to 13TH position
+    > OBSERVATION:            Overall ranking order of Thomas High School slipped from 2ND to 13TH 
+                              position
     
-C) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+C) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance 
+   relative to the other schools?
 
-   The relative ranking of Thomas High School changed from 2ND to 8TH because it's % Overall passing decreased from 91% to 65%.
+   The relative ranking of Thomas High School changed from 2ND to 8TH because it's % Overall passing decreased 
+   from 91% to 65%.
    
 D) How does replacing the ninth-grade scores affect the following:
 
     Math and reading scores by grade: 
     > Totals for passing math & reading across grades are reduced because 9th grade scores are set to NAN.
-    > "%age passing" score is reduced because the total passing value (numerator) is reduced by the removal of 9th grade scores.
+    > "%age passing" score is reduced because the total passing value (numerator) is reduced by the removal of
+      9th grade scores.
     
     Scores by school spending:
     > Thomas HS is in the spending bin range "$630-644"
-    > Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for spending bin 
-      "$630-644" as follows -
+    > Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores
+      for spending bin "$630-644" as follows -
         * BEFORE REPLACING DATA: 73, 84, 63
         * AFTER REPLACING DATA: 67, 77, 56
         
     Scores by school size :
         * Thomas HS is in the "Medium (1000-2000)" size bucket
-        * Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for size
-          bin  "Medium (1000-2000)" as follows:
+        * Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" 
+          scores for size bin  "Medium (1000-2000)" as follows:
           * BEFORE REPLACING DATA:94, 97, 91
           * AFTER REPLACING DATA: 88, 91, 85
           
     Scores by school type :
         * Thomas High School is in the "CHARTER" type 
-        * Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for type                 "CHARTER" as follows:
+        * Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" 
+          scores for type "CHARTER" as follows:
           * BEFORE:94, 97, 90
           * AFTER: 90 93 87
 
