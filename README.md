@@ -2,7 +2,7 @@
 
 #### 1. OVERVIEW OF THE SCHOOL DISTRICT ANALYSIS:
 
-The purpose of this anlysis is to replace the math and reading scores for Thomas High School with NaNs while the other details remain the same. After the math and reading scores are replaced,  the school district analysis in this module is repeated and a report is created to describe how these changes affected the overall analysis.  
+The purpose of this anlysis is to replace the math and reading scores for Thomas High School with NaNs while the other details remain same. After the math and reading scores are replaced,  the school district analysis in this module is repeated and a report is created to describe how these changes affected the overall analysis.  
 
 #### 2. OVERVIEW OF THE SCHOOL DISTRICT ANALYSIS:
 
@@ -59,10 +59,10 @@ D) How does replacing the ninth-grade scores affect the following:
 
 3. Summary:
 
-District Analysis - changes to all scores by less than 0.5% - no effect on school or student count.
+    a) District Analysis - changes to all scores by less than 0.5% - no effect on school or student count.
 
-Top School Ranking - no change to ranking, however Thomas High School scores did change, but by less than 1 percentage for each metric.
+    b) Top School Ranking - no change to ranking, however Thomas High School scores did change, but by less than 1 percentage for each metric.
 
-Scores by School Size - changes to Medium (1000-2000) grouping for all scores by less than 0.1 percentage.
+    c) Scores by School Size - changes to Medium (1000-2000) grouping for all scores by less than 0.1 percentage.
 
-Scores by School Type - chages to Charter type grouping for all scores by less than 0.1 percentage.
+    d) Scores by School Type - chages to Charter type grouping for all scores by less than 0.1 percentage.
