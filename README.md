@@ -18,9 +18,9 @@ A) How is the district summary affected?
     
 B) How is the school summary affected?
 
-    > BEFORE REPLACING DATA:  Thomas High School's % Overall Passing = 91, ranking second
-    > AFTER REPLACING DATA:   % Overall Passing = 65, placing eighth
-    > OBSERVATION:            Overall ranking order of Thomas High School slipped from 2ND to 13TH 
+    > BEFORE REPLACING DATA:  Thomas High School's % Overall Passing = 65
+    > AFTER REPLACING DATA:   % Overall Passing = 90
+    > OBSERVATION:            Overall ranking order of Thomas High School changed from 13TH to 2nd
                               position
     
 C) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance 
