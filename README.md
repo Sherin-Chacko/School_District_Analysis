@@ -26,27 +26,28 @@ B) How is the school summary affected?
 C) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance 
    relative to the other schools?
 
-   The relative ranking of Thomas High School changed from 2ND to 8TH because it's % Overall passing decreased 
-   from 91% to 65%.
+   The relative ranking of Thomas High School changed from 2ND to 8TH because it's % Overall passing
+   decreased from 91% to 65%.
    
 D) How does replacing the ninth-grade scores affect the following:
 
     Math and reading scores by grade: 
-    > Totals for passing math & reading across grades are reduced because 9th grade scores are set to NAN.
-    > "%age passing" score is reduced because the total passing value (numerator) is reduced by the removal of
-      9th grade scores.
+    > Totals for passing math & reading across grades are reduced because 9th grade scores are 
+      set to NAN.
+    > "%age passing" score is reduced because the total passing value (numerator) is reduced by 
+      the removal of 9th grade scores.
     
     Scores by school spending:
     > Thomas HS is in the spending bin range "$630-644"
-    > Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores
-      for spending bin "$630-644" as follows -
+    > Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall 
+      Passing" scores for spending bin "$630-644" as follows -
         * BEFORE REPLACING DATA: 73, 84, 63
         * AFTER REPLACING DATA: 67, 77, 56
         
     Scores by school size :
         * Thomas HS is in the "Medium (1000-2000)" size bucket
-        * Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" 
-          scores for size bin  "Medium (1000-2000)" as follows:
+        * Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall 
+          Passing" scores for size bin  "Medium (1000-2000)" as follows:
           * BEFORE REPLACING DATA:94, 97, 91
           * AFTER REPLACING DATA: 88, 91, 85
           
@@ -55,7 +56,7 @@ D) How does replacing the ninth-grade scores affect the following:
         * Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" 
           scores for type "CHARTER" as follows:
           * BEFORE:94, 97, 90
-          * AFTER: 90 93 87
+          * AFTER: 90, 93, 87
 
 3. Summary:
 
@@ -65,4 +66,4 @@ D) How does replacing the ninth-grade scores affect the following:
 
     c) Scores by School Size - changes to Medium (1000-2000) grouping for all scores by less than 0.1 percentage.
 
-    d) Scores by School Type - chages to Charter type grouping for all scores by less than 0.1 percentage.
+    d) Scores by School Type - changes to Charter type grouping for all scores by less than 0.1 percentage.
